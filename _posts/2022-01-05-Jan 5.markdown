@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Jan 5"
+date:   2022-01-05 19:43:08 -0800
+categories: jekyll update
+---
+
+Welcome to my blog. It's just a place for me to ramble and a way to have some real estate online.
