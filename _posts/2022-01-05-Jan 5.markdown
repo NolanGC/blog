@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Jan 5"
+title:  "Setting up - Jan 5"
 date:   2022-01-05 19:43:08 -0800
 categories: jekyll update
 ---
 
-Welcome to my blog. It's just a place for me to ramble and a way to have some real estate online.
+Welcome to my blog. It's just a place for me to ramble and a way to have some real estate online. I'll use it like a journal and try to write something every day. I'm still fixing up the hosting on github pages. It renders fine locally but it looks like the styling is messed up on github's end. I'll keep working on it. My plan is to also use this as a productivity routine. Every day I'll come home and write down the list of things I have to do for school, I'll do them and then I can journal / work on other things. I'm starting really late but heres an example.
+
+math homework
+print english stuff
+physics homework 
