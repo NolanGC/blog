@@ -1,1 +1,9 @@
-yo
+---
+layout: post
+title:  "Settling in - Jan 6"
+date:   2022-01-05 19:43:08 -0800
+categories: jekyll update
+---
+
+
+I'm back. Let's start with using this as a productivity tool like i mentioned. 
